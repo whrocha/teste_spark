@@ -1,0 +1,4 @@
+www-c1.proxy.aol.com - - [01/Aug/1995:00:28:34 -0400] "GET /shuttle/missions/sts-71/mission-sts-71.html HTTP/1.0" 200 13450
+line10.pm1.abb.mindlink.net - - [01/Aug/1995:00:28:39 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+line10.pm1.abb.mindlink.net - - [01/Aug/1995:00:28:41 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+tia1.eskimo.com - - [01/Aug/1995:00:28:41 -0400] "GET /pub/winvn/release.txt HTTP/1.0" 404 -
